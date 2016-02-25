@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.5663083
+  lightness: 0.7168459
+  brandStrength: 0.5179211
+  brandColors:
+    - '#281F1E'
+    - '#CFA36F'
+    - '#A3805B'
+    - '#F2884B'
+    - '#E04C2F'
+  rhythmicContrast: 1
+typography_spectrum: 0.4516129
+name: Hautzi
