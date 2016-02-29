@@ -1,14 +1,29 @@
+name: Hautzi
+favicon: null
 layout_spectrum: 0
+typography_spectrum: 0.4516129
+title: hautzi rocks
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5663083
-  lightness: 0.7168459
-  brandStrength: 0.5179211
   brandColors:
     - '#281F1E'
     - '#CFA36F'
     - '#A3805B'
     - '#F2884B'
     - '#E04C2F'
+  brandStrength: 0.5179211
+  lightness: 0.7168459
+  saturation: 0.5663083
   rhythmicContrast: 1
-typography_spectrum: 0.4516129
-name: Hautzi
+purpose: []
